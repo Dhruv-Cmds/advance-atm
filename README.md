@@ -1,3 +1,5 @@
+A beginner-friendly, menu-driven ATM system implemented in pure Python to demonstrate file handling and control flow.
+
 # ATM System (Python)
 
 A menu-driven ATM system built using raw Python.
