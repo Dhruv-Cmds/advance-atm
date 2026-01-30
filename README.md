@@ -15,6 +15,8 @@ A menu-driven ATM system built using raw Python.
 ```bash
 python atm.py
 
+Make sure Python 3 is installed on your system.
+
 ## Notes
 - Account number must be 10 digits
 - PIN must be 4 digits
